@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Par</title>
+    <link>https://parrastoo.github.io/Riddikulus.github.io/</link>
+    <description>Recent content on Call me Par</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 18:05:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://parrastoo.github.io/Riddikulus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Page</title>
+      <link>https://parrastoo.github.io/Riddikulus.github.io/page/</link>
+      <pubDate>Sat, 09 Jan 2021 18:05:00 +0100</pubDate>
+      
+      <guid>https://parrastoo.github.io/Riddikulus.github.io/page/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
