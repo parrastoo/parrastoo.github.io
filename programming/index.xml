@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programmings on Call me papar</title>
+    <link>https://parrastoo.github.io/programming/</link>
+    <description>Recent content in Programmings on Call me papar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:24:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://parrastoo.github.io/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Constructor</title>
+      <link>https://parrastoo.github.io/programming/constructor/</link>
+      <pubDate>Sun, 10 Jan 2021 00:24:56 +0100</pubDate>
+      
+      <guid>https://parrastoo.github.io/programming/constructor/</guid>
+      <description>hellow!</description>
+    </item>
+    
+  </channel>
+</rss>
